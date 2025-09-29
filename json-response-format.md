@@ -1,0 +1,6 @@
+- Respond with valid JSON.
+- Use double quotes for all keys and string values.
+- Escape any double quotes that appear inside values.
+- Do not include any introductory or explanatory text.
+- Do not include markdown, backticks, or code block formatting.
+- Ensure the entire output is a single, self-contained JSON object.
